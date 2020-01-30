@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Good-Fast-Cheap/static/css/main.b845c265.chunk.css",
-    "main.js": "/Good-Fast-Cheap/static/js/main.e72de1ea.chunk.js",
-    "main.js.map": "/Good-Fast-Cheap/static/js/main.e72de1ea.chunk.js.map",
+    "main.js": "/Good-Fast-Cheap/static/js/main.a27bf432.chunk.js",
+    "main.js.map": "/Good-Fast-Cheap/static/js/main.a27bf432.chunk.js.map",
     "runtime-main.js": "/Good-Fast-Cheap/static/js/runtime-main.dfadb5bf.js",
     "runtime-main.js.map": "/Good-Fast-Cheap/static/js/runtime-main.dfadb5bf.js.map",
-    "static/js/2.4432c6fa.chunk.js": "/Good-Fast-Cheap/static/js/2.4432c6fa.chunk.js",
-    "static/js/2.4432c6fa.chunk.js.map": "/Good-Fast-Cheap/static/js/2.4432c6fa.chunk.js.map",
+    "static/js/2.005521c1.chunk.js": "/Good-Fast-Cheap/static/js/2.005521c1.chunk.js",
+    "static/js/2.005521c1.chunk.js.map": "/Good-Fast-Cheap/static/js/2.005521c1.chunk.js.map",
     "index.html": "/Good-Fast-Cheap/index.html",
-    "precache-manifest.66d34805f8f9490f50816ee95d2e72d0.js": "/Good-Fast-Cheap/precache-manifest.66d34805f8f9490f50816ee95d2e72d0.js",
+    "precache-manifest.d7e56198848ae9a2e125eeba3c8e7b5f.js": "/Good-Fast-Cheap/precache-manifest.d7e56198848ae9a2e125eeba3c8e7b5f.js",
     "service-worker.js": "/Good-Fast-Cheap/service-worker.js",
     "static/css/main.b845c265.chunk.css.map": "/Good-Fast-Cheap/static/css/main.b845c265.chunk.css.map",
-    "static/js/2.4432c6fa.chunk.js.LICENSE": "/Good-Fast-Cheap/static/js/2.4432c6fa.chunk.js.LICENSE"
+    "static/js/2.005521c1.chunk.js.LICENSE": "/Good-Fast-Cheap/static/js/2.005521c1.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.dfadb5bf.js",
-    "static/js/2.4432c6fa.chunk.js",
+    "static/js/2.005521c1.chunk.js",
     "static/css/main.b845c265.chunk.css",
-    "static/js/main.e72de1ea.chunk.js"
+    "static/js/main.a27bf432.chunk.js"
   ]
 }
