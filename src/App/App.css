@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.containerApp {
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.centeredContainerApp {
+  background-color: whitesmoke;
+  width: 18rem;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
